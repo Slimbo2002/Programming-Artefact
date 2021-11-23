@@ -10,6 +10,11 @@ namespace ClassStatsTest
         Assassin = 2,
         Thief = 3,
     }
+    enum faction
+    {
+        Almdall = 1,
+
+    }
     class CharacterCreator
     {
         string name;
@@ -21,12 +26,21 @@ namespace ClassStatsTest
             bool mainLoop = true;
             while (mainLoop)
             {
+                GetName();
+                GetAge();
+                GetClass();
+
+
+                mainLoop = false;
+            }
+            void GetName()
+            {
                 bool nameLoop = true;
                 while (nameLoop)
                 {
                     Console.WriteLine("What's your name?");
                     name = Console.ReadLine();
-                    ;
+
                     Console.WriteLine($"Hello {name}! This is your name right?");
                     string answer = Console.ReadLine().ToLower();
 
@@ -46,6 +60,13 @@ namespace ClassStatsTest
                     }
                 }
 
+
+
+
+            }
+
+            void GetAge()
+            {
                 bool ageLoop = true;
                 while (ageLoop)
                 {
@@ -77,9 +98,13 @@ namespace ClassStatsTest
                     {
                         Console.WriteLine("I don't know if you're aware. Age is a number. Give it another go!");
                     }
-
                 }
 
+
+            }
+            
+            void GetClass()
+            {
                 bool classLoop = true;
                 while (classLoop)
                 {
@@ -95,7 +120,7 @@ namespace ClassStatsTest
                         if (answer == 1)
                         {
                             Console.WriteLine("You have selected Maurauder, This will increase your power by 3 but decrease speed and stealth by 1");
-                            
+
                             playerStats.Maurauder();
                             classLoop = false;
 
@@ -107,16 +132,13 @@ namespace ClassStatsTest
                         Console.WriteLine("Almdalf: Please stick to the guide. Its not that hard.");
                     }
                 }
-
-                mainLoop = false;
             }
-            
 
-            
-
+            void Confirm()
+            {
+                Console.WriteLine("Ok brave adventurer, nows the time!");
+                Console.WriteLine($"You are {name}")
+            }
         }
-
-
-
     }
 }
