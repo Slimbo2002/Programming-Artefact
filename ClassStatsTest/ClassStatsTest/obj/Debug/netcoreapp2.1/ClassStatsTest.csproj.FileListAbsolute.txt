@@ -1,0 +1,11 @@
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\ClassStatsTest.deps.json
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\ClassStatsTest.runtimeconfig.json
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\ClassStatsTest.runtimeconfig.dev.json
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\ClassStatsTest.dll
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\ClassStatsTest.pdb
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\ClassStatsTest.csprojAssemblyReference.cache
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\ClassStatsTest.csproj.CoreCompileInputs.cache
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\ClassStatsTest.AssemblyInfoInputs.cache
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\ClassStatsTest.AssemblyInfo.cs
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\ClassStatsTest.dll
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\ClassStatsTest.pdb

@@ -1,0 +1,11 @@
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\Assignment BenG.deps.json
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\Assignment BenG.runtimeconfig.json
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\Assignment BenG.runtimeconfig.dev.json
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\Assignment BenG.dll
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\bin\Debug\netcoreapp2.1\Assignment BenG.pdb
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\Assignment BenG.csproj.CoreCompileInputs.cache
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\Assignment BenG.AssemblyInfoInputs.cache
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\Assignment BenG.AssemblyInfo.cs
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\Assignment BenG.dll
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\Assignment BenG.pdb
+C:\Users\bg431\source\repos\ClassStatsTest\ClassStatsTest\obj\Debug\netcoreapp2.1\Assignment BenG.csprojAssemblyReference.cache
